@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
-1 - Usar o npm install para instalar as depêndencias do projeto
-2- Usar o comando npm run dev para 
+-Execute **npm install** no terminal para instalar todas as dependências do projeto listadas no package.json.
+-Após a instalação, use **npm run dev** para _iniciar_ o servidor de desenvolvimento local.
 
 Projeto:
 ![image](https://github.com/user-attachments/assets/5ff97169-6bf4-4de0-9d89-61bd25d9cced)
