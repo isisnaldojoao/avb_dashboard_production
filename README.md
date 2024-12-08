@@ -1,5 +1,14 @@
 # React + TypeScript + Vite
 
+1 - Usar o npm install para instalar as depêndencias do projeto
+2- Usar o comando npm run dev para 
+
+Projeto:
+![image](https://github.com/user-attachments/assets/5ff97169-6bf4-4de0-9d89-61bd25d9cced)
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
